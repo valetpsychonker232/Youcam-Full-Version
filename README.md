@@ -239,4 +239,4 @@ This repository serves as the official landing page for YouCam. The software is 
 **Get the most recent version of YouCam today!**
 
 ---
-**Last updated:** 2026-10-25 14:39:18 UTC
+**Last updated:** 2026-10-25 17:57:28 UTC
